@@ -264,13 +264,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Streamlit](https://streamlit.io/)** for rapid web application development
 - **Open Source Community** for tools and inspiration
 
-## 📞 Contact
-
-**Muhammad Abdullah Rasheed**
-- 🌐 Portfolio: [techvibes360.com](https://techvibes360.com)
-- 💼 LinkedIn: [abdullah-rasheed](https://www.linkedin.com/in/abdullahrasheed-/)
-- 📧 Email: abdullahrasheed45@gmail.com
-
----
+📞 Connect & Support
+<div align="center">
+🚀 Ready to Transform Your Documentation Experience?
+Show Image
+Show Image
+Show Image
+Show Image
+Let's make documentation intelligent and accessible!
+</div>
 
 *Built with ❤️ by Muhammad Abdullah Rasheed. Ready to automate your web browsing with AI?*
