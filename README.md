@@ -273,5 +273,4 @@ Show Image
 Show Image
 Let's make documentation intelligent and accessible!
 </div>
-
 *Built with ❤️ by Muhammad Abdullah Rasheed. Ready to automate your web browsing with AI?*
